@@ -1,2 +1,2 @@
 # IMT2200--LIZ---GONZALEZ-
-Soy Liz Gonzalez, este es mi repositorio y aqui aprendere como aplicar mi conocimiento de Introduccion a la Programacion y mis propias habilidades de analisis y compresion para el curso de Introduccion a la Ciencia de Datos. En mi repositorio se encuentran las actividades correspondientes al curso de IMT2200, por lo que espero puedan leer el README de la actividad, para saber mi procedimiento.
+Liz Ester Gonzalez Guzman
