@@ -1,4 +1,4 @@
-# imt2200 Actividad 1
+# imt2200-Actividad 1
  # Introduccion
 En esta actividad se aprendio, exploro y uso GitHub en conjunto con Jupyter. Luego se realizo la clonacion del repositorio del curso, donde se creo un repositorio público personal con un archivo README que incluye el nombre del alumno(Liz Ester Gonzalez Guzman), asimismo se trabajo en un notebook de Jupyter para visualizar un mapa de Santiago con la población por comuna usando colores, y finalmente se subieron los archivos actualizados al repositorio para entregar el enlace de la actividad.
 # Desarrollo de la Actividad en Notebook Jupyter (archivo formato ipynb)
